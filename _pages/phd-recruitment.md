@@ -6,7 +6,7 @@ featured_image: /images/promo.png
 
 ## PhD Project: Human-AI Collaboration Through Robotic Musicianship
 
-**Official project brief (PDF):** [Download here](/papers/phd-project-human-ai-collaboration-through-robotic-musicianship.pdf)
+**Official project brief (PDF):** <a href="/papers/phd-project-human-ai-collaboration-through-robotic-musicianship.pdf" class="js-no-ajax">Download here</a>
 
 This PhD project investigates how people build trust, fluency, and engagement with AI and robotic systems over time, using robotic musicianship as a real-world research setting.
 
