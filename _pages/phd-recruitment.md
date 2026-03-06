@@ -6,6 +6,8 @@ featured_image: /images/promo.png
 
 ## PhD Project: Human-AI Collaboration Through Robotic Musicianship
 
+**Official project brief (PDF):** [Download here](/papers/PhD%20Project%20Human-AI%20Collaboration%20Through%20Robotic%20Musicianship5march.pdf)
+
 This PhD project investigates how people build trust, fluency, and engagement with AI and robotic systems over time, using robotic musicianship as a real-world research setting.
 
 The project is part of a broader research program led by Dr Richard Savery at the University of Canberra, focused on long-term human-robot interaction and group dynamics in creative performance contexts.
@@ -49,10 +51,13 @@ Experience in programming, prototyping, user studies, or musical performance/int
 
 ## How to Apply
 
-Please contact [richard.savery@canberra.edu.au](mailto:richard.savery@canberra.edu.au) before submitting your EOI to discuss your application and project proposal.
+Please review the official PDF above, then contact [richard.savery@canberra.edu.au](mailto:richard.savery@canberra.edu.au) before submitting your EOI to discuss your application and project proposal.
+
+Emails that do not include all required items below will not be responded to.
 
 When you email, include:
 
+- Confirmation that you have read the official project PDF
 - Your CV
 - A short paragraph describing how your background fits the project
 
@@ -60,4 +65,3 @@ When you email, include:
 
 - EOI target date: `April 1, 2026` (extension can be granted for this targeted opportunity)
 - Final full application deadline: `April 30, 2026`
-
