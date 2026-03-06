@@ -5,7 +5,7 @@ featured_image: /images/demo/demo-landscape.jpg
 ---
 ![](/images/promo.png)
 
-am a developer of artificial intelligence and robotics, using music and creativity as a medium to program better interactions, understandings, and models between humans and machines. I am currently an ARC DECRA Fellow (2026–2028) at the University of Canberra, where I research robots and AI designed for long-term use and group interaction.
+I am a developer of artificial intelligence and robotics, using music and creativity as a medium to program better interactions, understandings, and models between humans and machines. I am currently an ARC DECRA Fellow (2026–2028) at the University of Canberra, where I research robots and AI designed for long-term use and group interaction.
 
 Previously, I was a Research Fellow at Macquarie University (2022–2024), where I developed robotic musicians, including interactive systems capable of rapping and drumming alongside human performers. In 2025 I worked at Jen Music, developing high-fidelity and ethically trained AI music systems. Across academia and industry, my research has received more than $3.8 million in funding and includes significant industry partnerships. My work has been featured in Scientific American, BBC Radio, and on Disney+ with Jeff Goldblum.
 
