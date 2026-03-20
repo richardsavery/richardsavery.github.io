@@ -22,3 +22,12 @@ Before Georgia Tech, I worked as a freelance music technologist, composer, and p
 [Meet the band's new drummer ... Keirzo the robot](https://lighthouse.mq.edu.au/article/march-2023/meet-the-bands-new-drummer-...-keirzo-the-robot)
 
 [Musical Robots on 2ser](https://2ser.com/musical-robots/)
+
+[Drum roll please ... this robot makes original rap in real time in Wodonga](https://www.bordermail.com.au/story/8631811/interactive-robot-rap-a-whole-new-experience-in-wodonga/)  
+Jodie Bruton, May 2024
+
+[Keirzo: The robot that can spit rhymes, keep time, and make you think about AI](https://www.nssn.org.au/news/2025/10/21/keirzo-the-robot-that-can-spit-rhymes-keep-time-and-make-you-think-about-ai)  
+Diane Nazaroff, October 2025
+
+[Hobart stadium a goer, Lehrmann loses again + Jorja Smith's AI lawsuit](https://www.abc.net.au/triplej/programs/hack/bruce-lehrmann-hobart-stadium-tasmania-jorja-smith-netball/106098938)  
+ABC triple j Hack, December 2025
