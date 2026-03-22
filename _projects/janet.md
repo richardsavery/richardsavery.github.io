@@ -16,9 +16,9 @@ This work was commissioned and supported by the Integrated Arts Research Initiat
 <iframe width="560" height="315" src="https://player.vimeo.com/video/714979602?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## AI Anne
-A.I. Anne is an ongoing performance and research project focused on neurodiverse inclusion in creative collaborations between humans and AI entities. The project was developed by Janet Biggs and me, with Mary Esther Carter, and has been presented in live and live-streamed formats.
+A.I. Anne is an ongoing performance and research project focused on neurodiverse inclusion in creative collaborations between humans and AI entities. The project was developed by Janet Biggs and myself, with regular vocalist Mary Esther Carter, and has been presented in live and live-streamed formats.
 
-The system was designed around vocalization, emotional prosody, and real-time response, with the broader goal of including absent and neurodiverse voices in AI development and creative technology practice.
+I developed the AI systems for the project, working across areas including vocalization, emotional prosody, real-time interaction, and broader creative direction. The work centres on including absent and neurodiverse voices in AI development and creative technology practice.
 
 Project overview and context: [https://janetbiggsperformance.com/about](https://janetbiggsperformance.com/about)
 
@@ -35,7 +35,7 @@ Performance-series entry describing A.I. Anne as a wordless storyteller using hu
 Date: September 28-29, 2024 (performance page lists September 28, 2024)  
 Location: NYU Tandon @ The Yard, Brooklyn, NY
 
-An ongoing A.I. Anne performance combining human and technological improvisation and vocalization to advocate for neurodiverse inclusion in AI. I served as the Artificial Intelligence Developer.
+An ongoing A.I. Anne performance combining human and technological improvisation and vocalization to advocate for neurodiverse inclusion in AI.
 
 [https://www.jbiggs.com/stories-without-words](https://www.jbiggs.com/stories-without-words)  
 [https://janetbiggsperformance.com/performances/v/hosted-with-custom-z9ehj-dwh9x-6jefh](https://janetbiggsperformance.com/performances/v/hosted-with-custom-z9ehj-dwh9x-6jefh)
@@ -44,18 +44,16 @@ An ongoing A.I. Anne performance combining human and technological improvisation
 Date: June 26, 2024 (jbiggs activities page); 5/16/24 on the performance page  
 Location: Galerie Analix Forever, Geneva, Switzerland
 
-A.I. Anne is a collaboration I developed as a technologist with Janet Biggs to advocate for the inclusion of absent and neurodiverse voices in AI. The performance includes a duet between soprano Ileana Munoz and A.I. Anne.
+A.I. Anne is presented as a collaboration exploring the inclusion of absent and neurodiverse voices in AI. The performance includes a duet between soprano Ileana Munoz and A.I. Anne.
 
 [https://www.jbiggs.com/digital-echo-performance](https://www.jbiggs.com/digital-echo-performance)  
 [https://janetbiggsperformance.com/performances/v/planet-earth-mejnx-d2a8y-hcrlk](https://janetbiggsperformance.com/performances/v/planet-earth-mejnx-d2a8y-hcrlk)
-
-<iframe width="560" height="315" src="https://player.vimeo.com/video/950565628?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Voices of Inclusion: AI & Authenticity in the Spectrum of Care and Support
 Date: October 31, 2023  
 Location: ECOSOC Chamber, United Nations Headquarters, New York City
 
-Performance built around texts on care and support, combining human and technological improvisation, vocalization, movement, and storytelling. It features A.I. Anne, which I co-created as Artificial Intelligence Developer.
+Performance built around texts on care and support, combining human and technological improvisation, vocalization, movement, and storytelling, featuring A.I. Anne.
 
 [https://www.jbiggs.com/voices-of-inclusion](https://www.jbiggs.com/voices-of-inclusion)  
 [https://janetbiggsperformance.com/performances/v/everything-to-sell-anything-427ge-88xsk-kde33](https://janetbiggsperformance.com/performances/v/everything-to-sell-anything-427ge-88xsk-kde33)
@@ -73,12 +71,10 @@ Live-streamed pandemic performance where I used my own brainwaves to control a d
 Date: July 18, 2019  
 Location: Theater at New Museum, New York City
 
-Workshop performance on shared creative production between humans and technology. It opens with Mary Esther Carter duetting with A.I. Anne, which I trained on Mary's voice, also contributing as Music Technologist.
+Workshop performance on shared creative production between humans and technology. It opens with Mary Esther Carter duetting with A.I. Anne, trained on Mary's voice.
 
 [https://www.jbiggs.com/how-the-light-gets-in](https://www.jbiggs.com/how-the-light-gets-in)  
 [https://janetbiggsperformance.com/performances/v/how-to-create-an-under-construction-page-nmhkn-et8z6-62msd](https://janetbiggsperformance.com/performances/v/how-to-create-an-under-construction-page-nmhkn-et8z6-62msd)
-
-<iframe width="560" height="315" src="https://player.vimeo.com/video/350180761?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Seeing Constellations in the Darkness Between Stars
 Mathematics and music are handled by similar regions in our brains; and it is no serendipity that Janet Biggs’ music plays an overwhelming role in awakening our subjectivity and bridging the gap between human and machine, between creativity and control, strength and frailty, and between our infinitesimal position in the universe and the heroic paths individuals may take.
