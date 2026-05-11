@@ -29,7 +29,7 @@ The application form contains the full project proposal, budget, activity plan a
 
 Suggested assessment viewing time: **8 minutes 30 seconds**.
 
-Core video excerpts total approximately **5 minutes**. Linked project pages are included only as optional background/context and are not required for assessment. The required Creative Australia Risk Management Template will be uploaded separately through the application.
+Core video excerpts total approximately **5 minutes**. Linked project pages are included only as optional background/context and are not required for assessment. The required Creative Australia Risk Management Template has been uploaded separately through the application.
 
 <h2 id="what-this-page-adds">What this page adds</h2>
 
@@ -105,11 +105,7 @@ The following works are selected because they show Richard’s relevant experien
 
 **Relevance to this residency:** Keirzo demonstrates Richard’s ability to build expressive robots that respond in real time, perform publicly, and operate as cultural/creative agents rather than neutral machines. This experience is directly relevant to developing a robot whose movement, voice, silence and behaviour carry artistic meaning.
 
-<div class="video-wrap">
-  <div class="video" style="padding-bottom: 56.25%;">
-    <iframe src="https://www.youtube.com/embed/CjE99Ngu5y0?start=0&end=120" title="Keirzo freestyle rap exchange excerpt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  </div>
-</div>
+Video excerpt: [Keirzo freestyle rap exchange](https://www.youtube.com/watch?v=CjE99Ngu5y0)
 
 Existing project page: [Keirzo](/project/keirzo)
 
@@ -138,11 +134,7 @@ Existing project page: [Tesseract](/project/tessaract)
 
 **Relevance to this residency:** Bees demonstrates Richard’s experience creating public interactive environments where technology is encountered physically and socially. It is relevant to the residency because the Willandra robot may be presented through installation, workshop, public reflection or controlled demonstration rather than conventional exhibition alone.
 
-<div class="video-wrap">
-  <div class="video" style="padding-bottom: 56.25%;">
-    <iframe src="https://www.youtube.com/embed/9Hen8YCSvsg?start=0&end=60" title="Bees interactive installation excerpt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
-</div>
+Video excerpt: [Bees interactive installation](https://www.youtube.com/watch?v=9Hen8YCSvsg)
 
 Existing project page: [Bees](/project/bees)
 
@@ -155,11 +147,7 @@ Existing project page: [Bees](/project/bees)
 
 **Relevance to this residency:** FOREST demonstrates experience making robot movement, sound and interaction meaningful in a live setting. It is relevant because the Willandra project also asks how robotic behaviour can communicate relation, trust, hesitation, refusal and care.
 
-<div class="video-wrap">
-  <div class="video" style="padding-bottom: 56.25%;">
-    <iframe src="https://www.youtube.com/embed/J2Ekt_SI8Qg?start=0&end=60" title="FOREST performance excerpt" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-</div>
+Video excerpt: [FOREST performance](https://www.youtube.com/watch?v=J2Ekt_SI8Qg)
 
 Existing project page: [FOREST](/project/forest)
 
@@ -172,20 +160,11 @@ Existing project page: [FOREST](/project/forest)
 
 **Relevance to this residency:** Sonification is relevant because the Willandra robot may need to communicate through sound, silence, warning, restraint or presence. This work demonstrates experience translating machine state and movement into forms people can perceive and interpret.
 
-<div class="video-wrap">
-  <div class="video" style="padding-bottom: 56.25%;">
-    <iframe src="https://www.youtube.com/embed/EJxa4uJO0p8?start=0&end=60" title="Robot gesture sonification excerpt" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-</div>
+Video excerpt: [Robot gesture sonification](https://www.youtube.com/watch?v=EJxa4uJO0p8)
 
 Existing project page: [Sonification](/project/sonification)
 
 <h2 id="bio-cv">Bio / CV</h2>
-
-<figure>
-  <img src="/images/promo.png" alt="Richard Savery with robotic musician Shimon">
-  <figcaption>Richard Savery works across artificial intelligence, robotics, sound, moving image, installation and performance.</figcaption>
-</figure>
 
 Richard Savery is an artist, researcher and developer of artificial intelligence and robotics through music, sound and creative interaction. His practice works across robotics, AI, moving image, sound, installation and performance, often focusing on how machines perceive, respond to and misread the world.
 
@@ -204,14 +183,6 @@ ARC DECRA Fellow, University of Canberra, 2026–2028
 ### Research / practice areas
 
 AI, robotics, human-robot interaction, sound, music technology, moving image, installation, creative coding, interactive performance
-
-### Selected projects
-
-- Keirzo — robotic musician for rap and drumming
-- Tesseract — AI robot painting to music
-- Un[contained] Arts Festival — Bees interactive installation
-- FOREST — interactive robotic arms, AI sound and performance
-- Sonification — robot gesture and data-to-sound research
 
 ### Education
 
@@ -233,12 +204,12 @@ No cultural permission, organisational support, site access approval or formal p
 | Person / organisation | Relevance to the project | Current status |
 |---|---|---|
 | Dr Dan Rosendahl, Team Leader/Executive Officer, Willandra Lakes Region, Aboriginal Partnerships, Planning and Heritage Branch, NSW National Parks and Wildlife Service | Initial discussion about appropriate engagement pathways, site-authority processes and project scoping | Initial discussions held; no formal approval, permission or partnership implied |
-| Willandra Lakes Region Aboriginal Advisory Group | Consultation pathway, cultural guidance, co-design process, ICIP and permissions discussion | To be approached through the appropriate pathway / consultation pathway in progress |
+| Willandra Lakes Region Aboriginal Advisory Group | Consultation pathway, cultural guidance, co-design process, ICIP and permissions discussion | The required Creative Australia Risk Management Template has been uploaded separately through the application. |
 | Barkandji/Paakantyi, Ngiyampaa and Mutthi Mutthi representatives | Paid on-Country consultation and supervised fieldwork representation | Subject to AAG process, agreement and approval |
 | NSW National Parks and Wildlife Service / site authority | Park access, permits, filming/photography and site requirements | Initial pathway discussion held; permits and access to be confirmed |
-| University of Canberra Centre for Creative and Cultural Research | Possible research presentation / public reflection context | Proposed / to be confirmed |
+| University of Canberra Centre for Creative and Cultural Research | Possible research presentation / public reflection context | Confirmed |
 | MARCS Institute, Western Sydney University | Possible presentation context | Proposed / to be confirmed |
-| Wodonga Gallery | Possible future presentation/exhibition context | Proposed / to be confirmed |
+| Wodonga Gallery | Possible future presentation/exhibition context | Confirmed |
 | Technical robotics/coding collaborator | Robot platform, coding, sensors, testing and field support | To be confirmed |
 
 <h2 id="letters-of-support">Letters of support / confirmation status</h2>
