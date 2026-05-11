@@ -10,8 +10,6 @@ menu_settings:
   menu_items:
     - title: 'About'
       url: '/about'
-    - title: 'PhD Recruitment'
-      url: '/phd-recruitment'
     - title: 'Projects'
       url: '/'
     - title: 'Contact'
