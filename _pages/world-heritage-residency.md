@@ -100,24 +100,23 @@ The public reflection will include an online process document and an artist talk
 The public learning will focus on how the artwork was made through residency, permission, relationship, refusal and review, and what this process reveals about AI, robotics, cultural authority and World Heritage sites. The public material will not disclose restricted cultural knowledge or present a universal guide to working on Country. The robot will not speak for Country. It will show how technology changes when it is required to listen, ask permission, accept limits and be shaped by the people and place that make the artwork possible.
 
 <h2 id="budget">Budget</h2>
+Budget item Amount
+Initial AAG consultation / project scoping $2,000
+3TTG representatives - first on-Country consultation, 3 reps x 2 days x $400/day $2,400
+AAG co-design / coding workshop, 2 days $8,000
+3TTG / AAG representatives - supervised return robot fieldwork, 3 reps x 5 days x $400/day $6,000
+AAG review of fieldwork materials / use permissions $2,000
+ICIP / cultural IP / future platform agreement support $4,500
+Artist fee - staged residency development periods $7,000
+Technical robotics / coding support $3,000
+Robot platform and field equipment $3,000
+Documentation and public sharing of process, lessons, limits and unsuitable uses $2,000
+Travel, accommodation, meals and local transport $5,000
+NPWS / park / permit costs $2,330
+Insurance, remote-area safety and risk management $1,700
+Contingency $1,070
+Total Creative Australia request $50,000
 
-| Budget item | Amount |
-|---|---:|
-| Initial AAG consultation / project scoping | $2,000 |
-| 3TTG representatives - first on-Country consultation, 3 reps x 2 days x $400/day | $2,400 |
-| AAG co-design workshop / translation of guidance into robot behaviours and restrictions | $8,000 |
-| 3TTG / AAG representatives - supervised return robot fieldwork, 3 reps x 5 days x $400/day | $6,000 |
-| AAG review of fieldwork materials / use permissions | $2,000 |
-| ICIP / cultural IP / ownership / future-use agreement support | $4,500 |
-| Artist fee - staged residency development periods | $7,000 |
-| Technical robotics / coding support | $3,000 |
-| Robot platform and field equipment | $3,000 |
-| Documentation and public sharing of process | $2,000 |
-| Travel, accommodation, meals and local transport | $5,000 |
-| NPWS / park / permit costs | $2,330 |
-| Insurance, remote-area safety and risk management | $1,700 |
-| Contingency | $1,070 |
-| **Total Creative Australia request** | **$50,000** |
 
 The budget prioritises consultation, co-design, cultural governance, ICIP, access, safety and low-impact site-based creation. Consultation and cultural governance are treated as core creative costs, not administration.
 
@@ -227,6 +226,8 @@ Richard is currently an ARC DECRA Fellow at the University of Canberra, research
 
 Existing about page: [richardsavery.com/about](/about)
 
+Full CV: [Download PDF](/papers/cv.pdf)
+
 ## Richard Savery - selected CV
 
 ### Current
@@ -271,6 +272,7 @@ AI, robotics, human-robot interaction, sound, music technology, moving image, in
 | Wodonga Gallery | Possible future presentation/exhibition context | Proposed / to be confirmed |
 | Technical robotics/coding collaborator | Robot platform, coding, sensors, testing and field support | To be confirmed |
 
-<h2 id="letters-of-support">Letters of support / permissions status</h2>
+## Letters of support / confirmation status
 
-The project is designed so that consultation, permission, ICIP, review and future-use agreements are part of the funded residency process. No on-Country testing, recording, public presentation or future use of Willandra-shaped material will occur without the relevant consultation, permissions and review.
+At the time of application, the project has had initial pathway discussions with Dr Dan Rosendahl, Team Leader/Executive Officer, Willandra Lakes Region, Aboriginal Partnerships, Planning and Heritage Branch, NSW National Parks and Wildlife Service. 
+
