@@ -1,6 +1,6 @@
 ---
 title: Australian World Heritage Residency Support Material
-subtitle: "Working title: A Culturally Co-Designed Robot for Willandra Lakes"
+subtitle: "Working title: Navigating Permission: A Protocol-Led Robot for Willandra Lakes"
 description: Support material for Richard Savery's Creative Australia Australian World Heritage Residency application.
 featured_image: /images/keirzoperf.jpeg
 permalink: /grants/world-heritage-residency/
@@ -10,24 +10,32 @@ sitemap: false
 
 ## Support material index
 
+[Assessment note](#assessment-note)  
 [Overview](#overview)  
 [Concept](#concept)  
 [Residency process](#residency-process)  
 [ICIP and permissions](#icip-and-permissions)  
+[Public reflection](#public-reflection)  
 [Budget](#budget)  
 [Risk summary](#risk-summary)  
 [Work samples](#work-samples)  
 [Bio / CV](#bio-cv)  
 [Collaborator status](#collaborator-status)  
-[Letters of support](#letters-of-support)
+[Letters of support / permissions status](#letters-of-support)
 
-## Working title: *A Culturally Co-Designed Robot for Willandra Lakes*
+<h2 id="assessment-note">Assessment note</h2>
 
-> This is a descriptive working title. The final title and identity of the robot/artwork would emerge through the residency process in consultation with the Willandra Lakes Region Aboriginal Advisory Group and representatives of the Barkandji/Paakantyi, Ngiyampaa and Mutthi Mutthi peoples.
+This page is intended as the single support-material URL for the application. Please assess the curated material on this page: the project overview, concept, residency process, ICIP and permissions approach, risk summary, selected work samples, bio/CV and collaborator/permission status. Suggested assessment viewing time is **8 minutes 30 seconds**. Linked project pages are included only as optional background/context and are not required for assessment. The required Creative Australia Risk Management Template will be uploaded separately through the application.
+
+## Working title: *Navigating Permission: A Protocol-Led Robot for Willandra Lakes*
+
+> This is a descriptive working title. The final title, role and identity of the robot/artwork would emerge through the residency process, subject to the appropriate consultation, review and permissions pathway with the Willandra Lakes Region Aboriginal Advisory Group and representatives of the Barkandji/Paakantyi, Ngiyampaa and Mutthi Mutthi peoples.
 
 <h2 id="overview">Overview</h2>
 
-This residency will create a small site-responsive robot/AI artwork at Willandra Lakes. The robot will become a moving, sensing and listening body whose behaviour, voice, recordings, silences and public form are shaped through AAG/3TTG consultation, ICIP, cultural protocols and environmental care. The project combines robotics, AI, moving image, sound and installation to explore how technology can be made through permission, relationship and responsibility.
+This residency will develop a small site-responsive robot/AI artwork through the cultural, environmental and permissions context of Willandra Lakes. The robot will become a moving, sensing and listening body only where appropriate: its behaviour, voice, recordings, silences, limits and public form will be shaped through the required AAG pathway, ICIP agreement-making, cultural protocols and environmental care.
+
+The project combines robotics, AI, moving image, sound and installation to explore how technology can be made through permission, relationship and responsibility. Its central question is not simply “can a robot move through this landscape?” but “what must a robot refuse, avoid, withhold or return for review when it is made accountable to Country, cultural authority and place?”
 
 <h2 id="concept">Concept</h2>
 
@@ -42,44 +50,54 @@ The residency is the making process. The robot/artwork cannot be fully designed 
 The residency will create the first stage of a longer-term robot/AI artwork and platform. This may include:
 
 - a small low-impact robot/AI entity
-- movement and sensing behaviours shaped through consultation
+- movement and sensing behaviours shaped through consultation and review
 - moving image, still images and field recordings where permitted
 - sound, spoken text or silence as part of the robot's public form
 - an installation, public reflection, artist talk, workshop or presentation
 - documentation of the process where appropriate
-- an ICIP-informed framework for future presentation, ownership, licensing, review and use
+- an ICIP-informed framework for future presentation, ownership, licensing, review, withdrawal and use
 
 <h2 id="residency-process">Residency process</h2>
 
-The residency will begin with the AAG consultation pathway, including a plain-English project proposal and discussion of cultural authority, access, ICIP, data, documentation, recording, public presentation and future use. Richard will then undertake on-Country consultation with representatives of the three relevant tribal groups, followed by a co-design/coding process with the AAG to translate guidance into the robot's behaviours, voice, movement, restrictions and protocols.
+The residency will begin through the appropriate AAG/site-authority pathway, including a plain-English project proposal and discussion of cultural authority, access, ICIP, data, documentation, recording, public presentation and future use.
 
-The robot will then be developed and tested away from sensitive sites. Any return fieldwork will occur only in approved areas, with AAG/3TTG representation and under agreed restrictions. Any material proposed for public use will be reviewed before presentation.
+Initial discussions with Dr Dan Rosendahl, Team Leader/Executive Officer, Willandra Lakes Region, Aboriginal Partnerships, Planning and Heritage Branch, NSW National Parks and Wildlife Service, have helped clarify the need to proceed through the established consultation and approval pathways before any on-Country testing, recording, public presentation or future use. These discussions do not imply formal project approval, cultural permission or partnership.
+
+Subject to approval, Richard will undertake paid consultation with appropriate representatives of the Barkandji/Paakantyi, Ngiyampaa and Mutthi Mutthi peoples. This will inform the robot's behaviours, voice, movement, restrictions, recording settings, review process and public form.
+
+The co-design process will not require cultural advisers to “code” the robot. Rather, cultural and environmental guidance will be translated by Richard and technical collaborators into specific robotic behaviours, limits and refusal protocols. For example, the robot may be designed to stop, avoid, remain silent, disable recording, operate only in approved areas, or return material for review before any public use.
+
+The robot will be developed and tested away from sensitive sites before any supervised return fieldwork. Any on-Country testing will occur only in approved areas, with agreed representation and restrictions. Any images, sound, movement logs, text, documentation or interpretation proposed for public use will be reviewed before presentation.
 
 ### Residency process creates the artwork
 
 | Stage | Purpose |
 |---|---|
-| AAG consultation | Begin through the appropriate consultation pathway |
-| On-Country guidance | Establish cultural authority, access and responsibilities |
-| ICIP / permissions / ownership discussion | Discuss ownership, licensing, review, future use and withdrawal rights |
-| Co-design and coding | Translate guidance into robot behaviours, voice, movement and restrictions |
+| AAG / site-authority pathway | Begin through the appropriate consultation and approval processes |
+| On-Country guidance, subject to approval | Establish cultural authority, access, responsibilities, boundaries and restrictions |
+| ICIP / permissions / ownership discussion | Discuss ownership, shared ownership, licensing, review, future use, attribution, benefit-sharing and withdrawal rights |
+| Protocol translation and coding | Translate guidance into robot behaviours, voice, movement, recording settings, limits and refusal protocols |
 | Robot development away from sensitive sites | Build and test with low-impact methods before any return fieldwork |
 | Supervised return fieldwork | Work only in approved areas with agreed representation and restrictions |
-| Review of materials | Review images, recordings, documentation and interpretation before public use |
-| Public reflection / emerging artwork | Present the process and artwork only where appropriate |
-| Future platform | Continue only under agreed permissions |
+| Review of materials | Review images, recordings, logs, documentation and interpretation before public use |
+| Public reflection / emerging artwork | Present the process and artwork only in an approved form |
+| Future platform | Continue, adapt or tour only under agreed permissions, review and future-use terms |
 
 <h2 id="icip-and-permissions">ICIP and permissions</h2>
 
 This project recognises that Indigenous Cultural and Intellectual Property may arise not only through recorded cultural knowledge, but through the consultation-led shaping of the robot itself: its behaviours, movement, voice, permissions, limits, data, images, recordings, public interpretation and future use.
 
-The project is conceived as the first stage of a longer-term artwork/platform that may later be shown, toured, adapted or extended. For that reason, ICIP, ownership, licensing, attribution, review rights, data storage, benefit-sharing, future-use permissions and withdrawal rights will be discussed from the beginning.
+The project is conceived as the first stage of a longer-term artwork/platform that may later be shown, toured, adapted or extended. For that reason, ICIP, ownership or shared ownership, licensing, attribution, review rights, data storage, benefit-sharing, future-use permissions and withdrawal rights will be discussed from the beginning.
 
-Richard does not assume sole authorship or unrestricted future use of a robot/platform shaped through AAG/3TTG guidance. The project will seek an agreement that clarifies what may be owned, jointly owned, licensed, restricted, reviewed or withdrawn, including any future presentations beyond the residency.
+Richard does not assume sole authorship or unrestricted future use of a robot/platform shaped through AAG/3TTG guidance. The project will seek an agreement that clarifies what may be owned, jointly owned, licensed, restricted, reviewed, withdrawn or withheld, including any future presentations beyond the residency. This could include full ownership by the AAG, shared ownership, licensing restrictions or no future use, depending on what is agreed.
 
-## Public reflection
+Recording will be minimised and permission-based. Camera, audio and sensing functions will be off by default unless approved for a specific purpose. No restricted cultural knowledge will be published. Any images, sound, movement logs, text, design notes or documentation proposed for public use will be reviewed before release.
 
-The public reflection may take the form of an artist talk, workshop, research presentation, installation test or presentation of the emerging robot artwork. It may include the robot, video, still images, field recordings, sound, spoken text and documentation of the co-design process where appropriate. The public learning will focus on how the artwork was made through residency, permission and relationship, and what this process reveals about AI, robotics, cultural authority and World Heritage sites.
+<h2 id="public-reflection">Public reflection</h2>
+
+The public reflection will include an online process document and an artist talk or workshop. Subject to review and permission, it may also include an installation test or presentation of the emerging robot artwork.
+
+The public learning will focus on how the artwork was made through residency, permission, relationship, refusal and review, and what this process reveals about AI, robotics, cultural authority and World Heritage sites. The public material will not disclose restricted cultural knowledge or present a universal guide to working on Country. The robot will not speak for Country. It will show how technology changes when it is required to listen, ask permission, accept limits and be shaped by the people and place that make the artwork possible.
 
 <h2 id="budget">Budget</h2>
 
@@ -87,14 +105,15 @@ The public reflection may take the form of an artist talk, workshop, research pr
 |---|---:|
 | Initial AAG consultation / project scoping | $2,000 |
 | 3TTG representatives - first on-Country consultation, 3 reps x 2 days x $400/day | $2,400 |
-| AAG co-design / coding workshop, 2 days | $8,000 |
+| AAG co-design workshop / translation of guidance into robot behaviours and restrictions | $8,000 |
 | 3TTG / AAG representatives - supervised return robot fieldwork, 3 reps x 5 days x $400/day | $6,000 |
 | AAG review of fieldwork materials / use permissions | $2,000 |
-| ICIP / cultural IP / future platform agreement support | $4,500 |
-| Artist fee - residency development, robot testing, fieldwork, editing, public reflection | $8,000 |
+| ICIP / cultural IP / ownership / future-use agreement support | $4,500 |
+| Artist fee - staged residency development periods | $7,000 |
 | Technical robotics / coding support | $3,000 |
-| Robot platform and field equipment | $3,500 |
-| Travel, accommodation, meals and local transport | $5,500 |
+| Robot platform and field equipment | $3,000 |
+| Documentation and public sharing of process | $2,000 |
+| Travel, accommodation, meals and local transport | $5,000 |
 | NPWS / park / permit costs | $2,330 |
 | Insurance, remote-area safety and risk management | $1,700 |
 | Contingency | $1,070 |
@@ -113,17 +132,13 @@ The budget prioritises consultation, co-design, cultural governance, ICIP, acces
 
 <h2 id="risk-summary">Risk summary</h2>
 
-Key risks include cultural permissions not being granted or needing more time; unclear ICIP, ownership or future-use permissions; inappropriate recording or public interpretation; environmental disturbance; remote-area safety; weather, dust and heat; battery/equipment risks; privacy and consent; and public misunderstanding of the robot as a survey or surveillance device.
+Key risks include cultural permissions not being granted or needing more time; unclear ICIP, ownership or future-use permissions; inappropriate recording or public interpretation; environmental disturbance; remote-area safety; weather, dust and heat; battery/equipment risks; privacy and consent; and public misunderstanding of the robot as a survey, surveillance or data-extraction device.
 
-Mitigation includes following the AAG consultation pathway, paid AAG/3TTG involvement, formal ICIP and future-use agreement-making, supervised fieldwork only in approved areas, low-impact equipment, no recording without permission, review of materials before public use, insurance, remote-area safety planning and the ability to stop or alter the project if advised.
+Mitigation includes following the AAG/site-authority consultation pathway, paid AAG/3TTG involvement where approved, formal ICIP and future-use agreement-making, supervised fieldwork only in approved areas, low-impact equipment, no recording without permission, review of materials before public use, secure and minimal data storage, insurance, remote-area safety planning and the ability to stop, alter or reduce the project if advised.
 
-The Risk Management Template will be submitted separately through the application as required.
+The required Creative Australia Risk Management Template will be uploaded separately through the application.
 
 <h2 id="work-samples">Work samples</h2>
-
-Suggested viewing time: 8 minutes 30 seconds.
-
-This section curates previous work in AI, robotics, sound, interaction, public installation and machine perception. It uses previous-work material rather than Willandra-specific imagery, so no restricted or unapproved site-specific cultural material is published here.
 
 ## 1. Keirzo - robotic musician / real-time rap and drumming
 
@@ -199,18 +214,6 @@ Existing project page: [FOREST](/project/forest)
 
 Existing project page: [Sonification](/project/sonification)
 
-## Viewing guide
-
-| Item | Suggested duration |
-|---|---:|
-| Keirzo excerpt | 2 min |
-| Tesseract still image and note | 1 min |
-| Bees / interactive installation | 1 min |
-| FOREST | 1 min |
-| Sonification / sound example | 1 min |
-| Written captions and project context | 2 min 30 sec |
-| **Total** | **8 min 30 sec** |
-
 <h2 id="bio-cv">Bio / CV</h2>
 
 <figure>
@@ -223,8 +226,6 @@ Richard Savery is an artist, researcher and developer of artificial intelligence
 Richard is currently an ARC DECRA Fellow at the University of Canberra, researching robots and AI designed for long-term use and group interaction. His previous work includes robotic musicians, interactive AI performance systems, robot painting, sonification, and public interactive installations. His work has been featured in Scientific American, BBC Radio and Disney+ with Jeff Goldblum.
 
 Existing about page: [richardsavery.com/about](/about)
-
-Full CV: [Download PDF](/papers/cv.pdf)
 
 ## Richard Savery - selected CV
 
@@ -257,26 +258,19 @@ AI, robotics, human-robot interaction, sound, music technology, moving image, in
 - ARC DECRA Fellowship
 - Major research and industry funding
 
-<h2 id="collaborator-status">Collaborator / partner status</h2>
+<h2 id="collaborator-status">Collaborator / partner / permission status</h2>
 
 | Person / organisation | Role | Status |
 |---|---|---|
-| Willandra Lakes Region Aboriginal Advisory Group | Consultation, cultural guidance, co-design pathway, ICIP and permissions discussion | To be approached / consultation pathway in progress |
-| Barkandji/Paakantyi, Ngiyampaa and Mutthi Mutthi representatives | Paid on-Country consultation and supervised fieldwork representation | Subject to AAG process and agreement |
-| NSW National Parks and Wildlife Service / site authority | Park access, permits, filming/photography and site requirements | To be confirmed |
+| Dr Dan Rosendahl, Team Leader/Executive Officer, Willandra Lakes Region, Aboriginal Partnerships, Planning and Heritage Branch, NSW National Parks and Wildlife Service | Initial discussion about appropriate engagement pathways, site-authority processes and project scoping | Initial discussions held; no formal approval, permission or partnership implied |
+| Willandra Lakes Region Aboriginal Advisory Group | Consultation pathway, cultural guidance, co-design process, ICIP and permissions discussion | To be approached through the appropriate pathway / consultation pathway in progress |
+| Barkandji/Paakantyi, Ngiyampaa and Mutthi Mutthi representatives | Paid on-Country consultation and supervised fieldwork representation | Subject to AAG process, agreement and approval |
+| NSW National Parks and Wildlife Service / site authority | Park access, permits, filming/photography and site requirements | Initial pathway discussion held; permits and access to be confirmed |
 | University of Canberra Centre for Creative and Cultural Research | Possible research presentation / public reflection context | Proposed / to be confirmed |
 | MARCS Institute, Western Sydney University | Possible presentation context | Proposed / to be confirmed |
 | Wodonga Gallery | Possible future presentation/exhibition context | Proposed / to be confirmed |
 | Technical robotics/coding collaborator | Robot platform, coding, sensors, testing and field support | To be confirmed |
 
-<h2 id="letters-of-support">Letters of support</h2>
+<h2 id="letters-of-support">Letters of support / permissions status</h2>
 
-Letters of support and permission will be added here as they are confirmed. Where relevant, letters will clarify the nature of support, consultation, permission, proposed collaboration or in-kind contribution. No support or permission is implied unless confirmed in writing.
-
-| Letter | What it should say |
-|---|---|
-| AAG / Willandra representative, if appropriate | Evidence of consultation pathway, support for application or willingness to consider the project; do not ask them to approve more than they are ready to approve |
-| NPWS / site authority | Access/permit pathway or willingness to discuss residency logistics |
-| University of Canberra CCCR | Support for public reflection / research presentation |
-| MARCS Institute | Support for presentation or research exchange |
-| Wodonga Gallery | Support for possible future presentation or exhibition outcome |
+The project is designed so that consultation, permission, ICIP, review and future-use agreements are part of the funded residency process. No on-Country testing, recording, public presentation or future use of Willandra-shaped material will occur without the relevant consultation, permissions and review.
