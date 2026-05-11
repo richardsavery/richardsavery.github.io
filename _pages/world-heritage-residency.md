@@ -224,6 +224,8 @@ Richard is currently an ARC DECRA Fellow at the University of Canberra, research
 
 Existing about page: [richardsavery.com/about](/about)
 
+Full CV: [Download PDF](/papers/cv.pdf)
+
 ## Richard Savery - selected CV
 
 ### Current
